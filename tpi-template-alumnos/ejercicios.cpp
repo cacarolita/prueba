@@ -1,6 +1,6 @@
 #include <algorithm>
 #include "ejercicios.h"
-
+//algo
 // Ejercicios
 
 bool esSenial(vector<int> const& s, int prof, int freq) {
